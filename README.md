@@ -37,3 +37,5 @@ S.no|name
 :grinning:
 
 :anger:
+
+Here is a simple footnote[^1].
