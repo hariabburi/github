@@ -40,4 +40,7 @@ S.no|name
 
 Here is a simple footnote [^1].
 
+2nd footnote[^2]
+[^2]:hide
+
 [^1]: My reference.
